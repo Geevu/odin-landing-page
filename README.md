@@ -4,4 +4,4 @@ This page is the part of the assignment for the completion of css foundation. I 
 
 The content used in this page ie images or text is generate by chat gpt .
 
-live-preview:[link](https://geevu.github.io/odin-landing-page/)
+live-preview: [link](https://geevu.github.io/odin-landing-page/)
